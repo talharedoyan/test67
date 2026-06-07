@@ -4,12 +4,4 @@ METRO IT Students List
 2.Foysal Ahmmed Siam
 3.Rafin
 4.sohan
-
-
-
-
-
-
-
-
-14.Taruha
+5.Taruha
